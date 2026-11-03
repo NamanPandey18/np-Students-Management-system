@@ -1,0 +1,16 @@
+[
+    {
+        "roll_no": "1",
+        "name": "naman the greatest",
+        "class": "12",
+        "contact": "98934039",
+        "marks": {
+            "English": 45,
+            "Hindi": 32,
+            "Physics": 12,
+            "Chemistry": 33,
+            "Mathematics": 0,
+            "Computer_Science": 1
+        }
+    }
+]
